@@ -18,10 +18,10 @@ This is a fork from the original QuickMSG
 <div>
 <h3>Quick links</h3>
 <p>
-	<a href="QuickMSG.apk">Download Android app</a><br>
-	<a href="usage.html">Usage</a><br>
-	<a href="details.html">Technical details</a><br>
-	<a href="updates.html">Updates</a><br>
+	<a href="https://quickmsg.vreeken.net/QuickMSG.apk">Download Android app</a><br>
+	<a href="https://quickmsg.vreeken.net/usage.html">Usage</a><br>
+	<a href="https://quickmsg.vreeken.net/details.html">Technical details</a><br>
+	<a href="https://quickmsg.vreeken.net/updates.html">Updates</a><br>
 </p>
 <p>
 	Current version: 20150304
@@ -111,8 +111,8 @@ but any kind of data can be shared.
 
 <div><h3>Screenshots</h3>
 <p>
-<img src="SC20140318-141932.png">
-<img src="SC20140318-142017.png">
+<img src="https://quickmsg.vreeken.net/SC20140318-141932.png">
+<img src="https://quickmsg.vreeken.net/SC20140318-142017.png">
 </p>
 </div>
 
@@ -145,19 +145,19 @@ but any kind of data can be shared.
 
 <div><h3>Source code</h3>
 <p>
-	<a href="releases/QuickMSG-20150304.tar.gz">Current Android Source</a><br>
-	<a href="QuickMSG.git">QuickMSG.git archive</a><br>
-	<a href="releases/quickmsg-cli-20140415.tar.gz">CLI Source</a><br>
+	<a href="https://quickmsg.vreeken.net/releases/QuickMSG-20150304.tar.gz">Current Android Source</a><br>
+	<a href="https://quickmsg.vreeken.net/QuickMSG.git">QuickMSG.git archive</a><br>
+	<a href="https://quickmsg.vreeken.net/releases/quickmsg-cli-20140415.tar.gz">CLI Source</a><br>
 </p>
 <p>
 	The following sources are here for historical reasons.
 	Current versions of the QuickMSG source have these integrated.
 </p>
 <p>
-	<a href="spongycastle.git">Spongycastle sources (git archive)</a><br>
+	<a href="https://quickmsg.vreeken.net/spongycastle.git">Spongycastle sources (git archive)</a><br>
 	These sources are a clone of the archive at 
 	<a href="http://rtyley.github.io/spongycastle/">http://rtyley.github.io/spongycastle/</a><br>
-	<a href="javamail-android.tar.gz">Javamail for android sources</a><br>
+	<a href="https://quickmsg.vreeken.net/javamail-android.tar.gz">Javamail for android sources</a><br>
 	These sources are a download from 
 	<a href="http://code.google.com/p/javamail-android/">
 	http://code.google.com/p/javamail-android/
