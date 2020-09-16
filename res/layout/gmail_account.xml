@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/account_type"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbarAlwaysDrawVerticalTrack="true"
+    android:scrollbarStyle="insideOverlay"
+    android:scrollbars="vertical" >
+    
+    <TextView
+        android:id="@+id/text_account_help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/dialog_warn_settings" 
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+    
+    <RadioGroup
+        android:id="@+id/account_type_radio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_account_help"
+        android:checkedButton="0" />
+        
+    <EditText
+        android:id="@+id/gmail_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/text_gmail_name"
+        android:inputType="textPersonName" />
+    
+    <TextView
+        android:id="@+id/text_gmail_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/gmail_name"
+        android:text="@string/dialog_gmail_address" />
+        
+    <EditText
+        android:id="@+id/gmail_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/text_gmail_address"
+        android:inputType="textEmailAddress" />
+    
+    <TextView
+        android:id="@+id/text_gmail_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/gmail_address"
+        android:layout_alignParentLeft="true"
+        android:text="@string/dialog_gmail_pass" />
+
+    <EditText
+        android:id="@+id/gmail_pass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/text_gmail_pass"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/text_gmail_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/account_type_radio"
+        android:text="@string/pref_title_display_name" />
+    
+</RelativeLayout>

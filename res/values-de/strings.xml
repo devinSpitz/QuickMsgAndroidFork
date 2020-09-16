@@ -1,0 +1,45 @@
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="button_send">Senden</string>
+    <string name="title_activity_list">QuickMSG</string>
+    <string name="action_my_fingerprint">Mein Fingerabdruck</string>
+    <string name="action_add_contact">Kontakt hinzufügen</string>
+    <string name="dialog_add_contact">Geben Sie die E-Mail Adresse Ihres Kontakts ein. Ihr Kontakt wird aufgefordert, Ihren öffentlichen Schlüssel zu bestätigen.</string>
+    <string name="action_send_key">Sende öffentlichen Schlüssel</string>
+    <string name="dialog_send_key">Sende meinen öffentlichen Schlüssel zu diesem Kontakt.</string>
+    <string name="dialog_contact">Kontakt</string>
+    <string name="action_verify">Kontakt bestätigen</string>
+    <string name="action_sync">Sync E-Mail</string>
+    <string name="dialog_verify">Drücken Sie OK, um den öffentlichen Schlüssel von diesem Kontakt zu bestätigen</string>
+    <string name="action_fingerprint">Fingerabdruck</string>
+    <string name="dialog_fingerprint">Fingerabdruck vom Kontakt</string>
+    <string name="action_warn_settings">Konfiguration notwendig</string>
+    <string name="dialog_warn_settings">Wählen Sie einen bekannten E-Mail Anbieter aus und füllen Sie die Felder aus. Drücken Sie Abbrechen, wenn Sie Ihre E-Mail Einstellungen manuell eingeben wollen.</string>
+    <string name="dialog_gmail_address">E-Mail Adresse</string>
+    <string name="dialog_gmail_pass">E-Mail Passwort</string>
+    <string name="action_remove">Kontakt löschen</string>
+    <string name="dialog_remove">Möchten Sie den Kontakt löschen</string>
+    <string name="dialog_remove_self">Löschen des eigenen Kontakts nicht möglich</string>
+    <string name="action_remove_self">Löschen nicht möglich</string>
+    <string name="action_add_group">Gruppe hinzufügen</string>
+    <string name="dialog_add_group">Gruppennamen eingeben. Eine neue Gruppe wird angelegt.</string>
+    <string name="action_set_member">Gruppenmitglieder festlegen</string>
+    <string name="action_set_name">Gruppennamen festlegen</string>
+    <string name="dialog_group_name">Gruppenname</string>
+    <string name="action_group_name">Gruppenname</string>
+    <string name="action_select_contact">Kontakt auswählen</string>
+    <string name="action_export">Export</string>
+    <string name="dialog_export">
+        Es werden alle Daten und Einstellungen in die Datei \'QuickMSG.export\' exportiert.
+	Diese Datei kann zu anderen Geräten kopiert und importiert werden. Achtung, diese Datei enthält auch Ihren privaten Schlüssel!</string>
+	<string name="action_import">Import</string>
+	<string name="dialog_import">
+        Der Import lädt die Datei \'QuickMSG.export\'.
+	Achtung, alle aktuellen Einstellungen und Nachrichten werden damit überschrieben!</string>
+	<string name="action_show_license">Lizenz anzeigen</string>
+	<string name="compose_message">Nachricht verfassen</string>
+	
+	<string name="status_connection">Verbindungsstatus</string>
+    <string name="status_connected">Verbunden</string>
+    <string name="status_disconnected">Nicht verbunden</string>
+</resources>
